@@ -12,4 +12,4 @@ const secondNumber = 40;
 const result = firstNumber + secondNumber;
 
 //Exibindo o resultado;
-console.log(`${firstNumber} + ${secondNumber} = ${result}`)
+console.log(`${firstNumber} + ${secondNumber} = ${result}`);
