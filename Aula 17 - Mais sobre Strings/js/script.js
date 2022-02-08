@@ -4,7 +4,7 @@
   ""     charCodeAt();
   ""     indexOf(); 
   ""     lastIndexOf(); 
-  ""     toLowerCase();
+  ""     toLowerCase(); 
   ""     toUpperCase();
   Operador mais como concatenador de valores;
 */
@@ -25,5 +25,3 @@ console.log(otherString.slice(-3));
 
 console.log(otherString.toLowerCase());
 console.log(otherString.toUpperCase());
-
-
